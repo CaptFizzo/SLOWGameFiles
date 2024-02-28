@@ -8,4 +8,4 @@ Sounds in:
 
 
 2/27 changes
-Added reverb zones between buildings. Right now, 1 between each, however will need to make changes as time goes on, as buildings can be destoryed. will look into alternate methods for future reverb zone manipulations
+Added reverb zones between buildings. Right now, 1 between each, however will need to make changes as time goes on, as buildings can be destoryed. will look into alternate methods for future reverb zone manipulations.
